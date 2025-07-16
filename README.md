@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o Bruno!
+![cat-coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-🎓 Estudante de **Sistemas de Informação**  
+🎓 Estudante de **Sistemas de Informação** na **Universidade Federal de Uberlândia (UFU)**  
 💻 Focado em aprender **programação** e resolver problemas com **algoritmos**  
 🌱 Iniciante, mas com vontade de evoluir um passo de cada vez  
 🔧 Praticando com projetos simples e organizando meu aprendizado por aqui  
@@ -33,3 +34,7 @@
 
 ⭐ Obrigado por visitar meu perfil!  
 Se também estiver aprendendo ou quiser trocar ideia sobre programação, me chama! 😄
+
+![Status](https://img.shields.io/badge/Code%20Mood-50%25%20bugado-blueviolet)
+![Powered by](https://img.shields.io/badge/Powered%20by-cafeína-brightgreen)
+
