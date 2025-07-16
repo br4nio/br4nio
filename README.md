@@ -31,12 +31,21 @@
 
 ## 📫 Como me encontrar
 
-- 📧 [Email](mailto:bruno.nitsche@ufu.com)  
+- 📧 [Email](mailto:bruno.nitsche@ufu.br)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-corr%C3%AAa90o/)
 
 ---
 
-⭐ Obrigado por visitar meu perfil!  
+## 🚧 Planejando aprender
+- JavaScript
+- React
+- Banco de Dados SQL
+
+---
+![Meu gráfico de contribuições](https://ghchart.rshah.org/br4nio)
+
+
+⭐ Obrigado por visitar meu perfil!!!! 
 Se também estiver aprendendo ou quiser trocar ideia sobre programação, me chama! 😄
 
 ![Powered by](https://img.shields.io/badge/Powered%20by-cafeína-brightgreen)
