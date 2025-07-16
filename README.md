@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </p>
 
-
 # 👋 Olá, eu sou o Bruno!
 
 🎓 Estudante de **Sistemas de Informação** na **Universidade Federal de Uberlândia (UFU)**  
@@ -23,16 +22,17 @@
 
 ## 💡 O que você vai encontrar por aqui
 
-- Repositórios com exercícios resolvidos e comentados
-- Anotações simples para reforçar o que estou estudando
-- Códigos organizados por tema ou lista de exercícios
+- Repositórios com exercícios resolvidos e comentados  
+- Anotações simples para reforçar o que estou estudando  
+- Códigos organizados por tema ou lista de exercícios  
 - Experimentos para praticar lógica e estruturação de código
 
 ---
 
 ## 📫 Como me encontrar
 
-- Email: bruno.nitsche@ufu.com
+- 📧 [Email](mailto:bruno.nitsche@ufu.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-corr%C3%AAa90o/) — vamos nos conectar?
 
 ---
 
@@ -40,4 +40,3 @@
 Se também estiver aprendendo ou quiser trocar ideia sobre programação, me chama! 😄
 
 ![Powered by](https://img.shields.io/badge/Powered%20by-cafeína-brightgreen)
-
