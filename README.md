@@ -36,7 +36,7 @@
 
 ---
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=br4nio&show_icons=true&theme=radical)
 
 ---
 
