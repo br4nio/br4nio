@@ -42,8 +42,6 @@
 - Banco de Dados SQL
 
 ---
-![Meu gráfico de contribuições](https://ghchart.rshah.org/br4nio)
-
 
 ⭐ Obrigado por visitar meu perfil!!!! 
 Se também estiver aprendendo ou quiser trocar ideia sobre programação, me chama! 😄
