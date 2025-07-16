@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Bruno!
 
-<!--
-**br4nio/br4nio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação**  
+💻 Focado em aprender **programação** e resolver problemas com **algoritmos**  
+🌱 Iniciante, mas com vontade de evoluir um passo de cada vez  
+🔧 Praticando com projetos simples e organizando meu aprendizado por aqui  
+📘 Usando o GitHub como diário de estudos e progresso
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades em desenvolvimento
+
+- Linguagens: `Python` (iniciante), `HTML/CSS`  
+- Ferramentas: `VS Code`, `Git`, `GitHub`  
+- Conceitos: Lógica de Programação, Estruturas de Controle, Vetores, Funções
+
+---
+
+## 💡 O que você vai encontrar por aqui
+
+- Repositórios com exercícios resolvidos e comentados
+- Anotações simples para reforçar o que estou estudando
+- Códigos organizados por tema ou lista de exercícios
+- Experimentos para praticar lógica e estruturação de código
+
+---
+
+## 📫 Como me encontrar
+
+- Email: bruno.nitsche@ufu.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!  
+Se também estiver aprendendo ou quiser trocar ideia sobre programação, me chama! 😄
