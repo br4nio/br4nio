@@ -32,7 +32,7 @@
 ## 📫 Como me encontrar
 
 - 📧 [Email](mailto:bruno.nitsche@ufu.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-corr%C3%AAa90o/) — vamos nos conectar?
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-corr%C3%AAa90o/)
 
 ---
 
